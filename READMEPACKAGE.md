@@ -1,4 +1,4 @@
-<!-- Copy and paste to package.json after initiating npm init -y in terminal. -->
+<!-- Copy/paste to package.json after initiating npm init -y in terminal. -->
 
 {
   "name": "my-project",
